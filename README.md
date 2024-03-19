@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Software Development
