@@ -28,9 +28,9 @@
 ### :man_technologist: About Me :
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development, Data Science and AI.
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Software Development
+- 💞️ I’m looking to collaborate on Software Development and Data Science.
 - 📫 How to reach me abdiazizsaman394@gmail.com
 
   ---
