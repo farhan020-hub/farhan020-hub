@@ -53,7 +53,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?farhan020-hub)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farhan020-hub)](https://git.io/streak-stats)
 <!---
 farhan020-hub/farhan020-hub is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
