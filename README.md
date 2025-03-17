@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a Data Analyst & Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - 👀 I’m interested in Software Development, Data Science and AI.
 - 🌱 I’m currently learning Data Science & Analysis 
 - 💞️ I’m looking to collaborate on Software Development and Data Science.
